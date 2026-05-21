@@ -20,17 +20,17 @@ React Native ve SQLite kullanılarak geliştirilmiş, şık bir günlük not ve 
 Projenin arayüzünden ve işlevsel adımlarından kesitler:
 
 <p align="center">
-  <img src="./1.png" width="250" alt="Giriş Ekranı" />
-  <img src="./2.png" width="250" alt="Not Ekleme" />
-  <img src="./3.png" width="250" alt="Not Listesi" />
+ <img width="1080" height="2424" alt="1" src="https://github.com/user-attachments/assets/a913aabd-9043-43fa-9ea8-22f6dc4bc0ae" />>
+  <img width="1080" height="2424" alt="2" src="https://github.com/user-attachments/assets/f58a1929-d458-413e-b803-0c9ba1288b27" />
+ <img width="1080" height="2424" alt="3" src="https://github.com/user-attachments/assets/a93a9b60-8a7d-4fba-bb89-6f8821972f00" />
 </p>
 <p align="center">
-  <img src="./4.png" width="250" alt="Tamamlanan Notlar" />
-  <img src="./5.png" width="250" alt="Düzenleme Modalı" />
-  <img src="./6.png" width="250" alt="Silme İşlemi" />
+  <img width="1080" height="2424" alt="4" src="https://github.com/user-attachments/assets/ea42489c-8e8f-4015-9e83-9c427763a101" />
+ <img width="1080" height="2424" alt="5" src="https://github.com/user-attachments/assets/abd2d01c-53a2-46f5-a382-b6a335c426cb" />
+  <img width="1080" height="2424" alt="6" src="https://github.com/user-attachments/assets/0a373243-84c9-45d2-9772-8efd11a45d40" />
 </p>
 <p align="center">
-  <img src="./7.png" width="250" alt="Boş Liste Durumu" />
+  <img width="1080" height="2424" alt="7" src="https://github.com/user-attachments/assets/17dd0e17-ce14-491b-bfdd-3a922c2a1360" />
 </p>
 
 > *Not: Ekran görüntülerinin README içerisinde başarıyla render edilebilmesi için `1.png`, `2.png`, ... `7.png` dosyalarının `README.md` ile aynı dizinde bulunması gerekmektedir.*
