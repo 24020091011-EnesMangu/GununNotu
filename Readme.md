@@ -17,23 +17,15 @@ React Native ve SQLite kullanılarak geliştirilmiş, şık bir günlük not ve 
 
 ## 📸 Ekran Görüntüleri
 
-Projenin arayüzünden ve işlevsel adımlarından kesitler:
+Görüntülerin yer kaplamaması için tablo yapısında yan yana sıralanmıştır:
 
-<p align="center">
- <img width="1080" height="2424" alt="1" src="https://github.com/user-attachments/assets/a913aabd-9043-43fa-9ea8-22f6dc4bc0ae" />>
-  <img width="1080" height="2424" alt="2" src="https://github.com/user-attachments/assets/f58a1929-d458-413e-b803-0c9ba1288b27" />
- <img width="1080" height="2424" alt="3" src="https://github.com/user-attachments/assets/a93a9b60-8a7d-4fba-bb89-6f8821972f00" />
-</p>
-<p align="center">
-  <img width="1080" height="2424" alt="4" src="https://github.com/user-attachments/assets/ea42489c-8e8f-4015-9e83-9c427763a101" />
- <img width="1080" height="2424" alt="5" src="https://github.com/user-attachments/assets/abd2d01c-53a2-46f5-a382-b6a335c426cb" />
-  <img width="1080" height="2424" alt="6" src="https://github.com/user-attachments/assets/0a373243-84c9-45d2-9772-8efd11a45d40" />
-</p>
-<p align="center">
-  <img width="1080" height="2424" alt="7" src="https://github.com/user-attachments/assets/17dd0e17-ce14-491b-bfdd-3a922c2a1360" />
-</p>
+| Başlangıç | Not Ekleme | Not Listesi | Tamamlananlar |
+| :---: | :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/a913aabd-9043-43fa-9ea8-22f6dc4bc0ae" width="150" /> | <img src="https://github.com/user-attachments/assets/f58a1929-d458-413e-b803-0c9ba1288b27" width="150" /> | <img src="https://github.com/user-attachments/assets/a93a9b60-8a7d-4fba-bb89-6f8821972f00" width="150" /> | <img src="https://github.com/user-attachments/assets/ea42489c-8e8f-4015-9e83-9c427763a101" width="150" /> |
 
-> *Not: Ekran görüntülerinin README içerisinde başarıyla render edilebilmesi için `1.png`, `2.png`, ... `7.png` dosyalarının `README.md` ile aynı dizinde bulunması gerekmektedir.*
+| Düzenleme | Silme | Boş Liste |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/abd2d01c-53a2-46f5-a382-b6a335c426cb" width="150" /> | <img src="https://github.com/user-attachments/assets/0a373243-84c9-45d2-9772-8efd11a45d40" width="150" /> | <img src="https://github.com/user-attachments/assets/17dd0e17-ce14-491b-bfdd-3a922c2a1360" width="150" /> |
 
 ---
 
